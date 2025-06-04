@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sources", "Sources", "{D2357037-E7FC-466D-9318-D2F4DE4E3E27}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Barber", "Barber", "{790BF62F-2277-4FDF-B03A-89A627A11D31}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Receptionist", "Receptionist", "{AC9F07D5-4D0B-4A26-BD11-44EA8E0BF5B9}"
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{790BF62F-2277-4FDF-B03A-89A627A11D31} = {D2357037-E7FC-466D-9318-D2F4DE4E3E27}
+		{AC9F07D5-4D0B-4A26-BD11-44EA8E0BF5B9} = {D2357037-E7FC-466D-9318-D2F4DE4E3E27}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81AA9658-CB06-4DB6-8965-0CAB577E3D44}
+	EndGlobalSection
+EndGlobal
