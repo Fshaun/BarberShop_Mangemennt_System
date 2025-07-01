@@ -1,0 +1,12 @@
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Domain\bin\Debug\net8.0\Reception.Domain.deps.json
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Domain\bin\Debug\net8.0\Reception.Domain.dll
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Domain\bin\Debug\net8.0\Reception.Domain.pdb
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Domain\obj\Debug\net8.0\Reception.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Domain\obj\Debug\net8.0\Reception.Domain.AssemblyInfoInputs.cache
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Domain\obj\Debug\net8.0\Reception.Domain.AssemblyInfo.cs
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Domain\obj\Debug\net8.0\Reception.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Domain\obj\Debug\net8.0\Reception.Domain.sourcelink.json
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Domain\obj\Debug\net8.0\Reception.Domain.dll
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Domain\obj\Debug\net8.0\refint\Reception.Domain.dll
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Domain\obj\Debug\net8.0\Reception.Domain.pdb
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Domain\obj\Debug\net8.0\ref\Reception.Domain.dll
