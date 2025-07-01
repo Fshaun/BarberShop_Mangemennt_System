@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hlamulo B. Maenetja\\source\\repos\\Fshaun\\BarberShop_Mangemennt_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD3557B-2DF6-4A96-96A9-45C8486474B1}|Reception.Infrastructure\\Reception.Infrastructure.csproj|c:\\users\\hlamulo b. maenetja\\source\\repos\\fshaun\\barbershop_mangemennt_system\\reception.infrastructure\\data\\receptiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD3557B-2DF6-4A96-96A9-45C8486474B1}|Reception.Infrastructure\\Reception.Infrastructure.csproj|solutionrelative:reception.infrastructure\\data\\receptiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAE42B6E-45BE-4B96-BE24-5B9A2BB6AFFD}|Reception.Application\\Reception.Application.csproj|c:\\users\\hlamulo b. maenetja\\source\\repos\\fshaun\\barbershop_mangemennt_system\\reception.application\\contracts\\receptioncontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAE42B6E-45BE-4B96-BE24-5B9A2BB6AFFD}|Reception.Application\\Reception.Application.csproj|solutionrelative:reception.application\\contracts\\receptioncontract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFFD905-64E9-4BDC-BF83-52AB2216818D}|Reception.Domain\\Reception.Domain.csproj|c:\\users\\hlamulo b. maenetja\\source\\repos\\fshaun\\barbershop_mangemennt_system\\reception.domain\\models\\receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFFD905-64E9-4BDC-BF83-52AB2216818D}|Reception.Domain\\Reception.Domain.csproj|solutionrelative:reception.domain\\models\\receptionist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFFD905-64E9-4BDC-BF83-52AB2216818D}|Reception.Domain\\Reception.Domain.csproj|c:\\users\\hlamulo b. maenetja\\source\\repos\\fshaun\\barbershop_mangemennt_system\\reception.domain\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFFD905-64E9-4BDC-BF83-52AB2216818D}|Reception.Domain\\Reception.Domain.csproj|solutionrelative:reception.domain\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BFFD905-64E9-4BDC-BF83-52AB2216818D}|Reception.Domain\\Reception.Domain.csproj|c:\\users\\hlamulo b. maenetja\\source\\repos\\fshaun\\barbershop_mangemennt_system\\reception.domain\\models\\barber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BFFD905-64E9-4BDC-BF83-52AB2216818D}|Reception.Domain\\Reception.Domain.csproj|solutionrelative:reception.domain\\models\\barber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 120,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReceptionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hlamulo B. Maenetja\\source\\repos\\Fshaun\\BarberShop_Mangemennt_System\\Reception.Infrastructure\\Data\\ReceptionDbContext.cs",
+              "RelativeDocumentMoniker": "Reception.Infrastructure\\Data\\ReceptionDbContext.cs",
+              "ToolTip": "C:\\Users\\Hlamulo B. Maenetja\\source\\repos\\Fshaun\\BarberShop_Mangemennt_System\\Reception.Infrastructure\\Data\\ReceptionDbContext.cs",
+              "RelativeToolTip": "Reception.Infrastructure\\Data\\ReceptionDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:16:15.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReceptionContract.cs",
+              "DocumentMoniker": "C:\\Users\\Hlamulo B. Maenetja\\source\\repos\\Fshaun\\BarberShop_Mangemennt_System\\Reception.Application\\Contracts\\ReceptionContract.cs",
+              "RelativeDocumentMoniker": "Reception.Application\\Contracts\\ReceptionContract.cs",
+              "ToolTip": "C:\\Users\\Hlamulo B. Maenetja\\source\\repos\\Fshaun\\BarberShop_Mangemennt_System\\Reception.Application\\Contracts\\ReceptionContract.cs",
+              "RelativeToolTip": "Reception.Application\\Contracts\\ReceptionContract.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:05:27.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Receptionist.cs",
+              "DocumentMoniker": "C:\\Users\\Hlamulo B. Maenetja\\source\\repos\\Fshaun\\BarberShop_Mangemennt_System\\Reception.Domain\\Models\\Receptionist.cs",
+              "RelativeDocumentMoniker": "Reception.Domain\\Models\\Receptionist.cs",
+              "ToolTip": "C:\\Users\\Hlamulo B. Maenetja\\source\\repos\\Fshaun\\BarberShop_Mangemennt_System\\Reception.Domain\\Models\\Receptionist.cs",
+              "RelativeToolTip": "Reception.Domain\\Models\\Receptionist.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T13:03:39.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Barber.cs",
+              "DocumentMoniker": "C:\\Users\\Hlamulo B. Maenetja\\source\\repos\\Fshaun\\BarberShop_Mangemennt_System\\Reception.Domain\\Models\\Barber.cs",
+              "RelativeDocumentMoniker": "Reception.Domain\\Models\\Barber.cs",
+              "ToolTip": "C:\\Users\\Hlamulo B. Maenetja\\source\\repos\\Fshaun\\BarberShop_Mangemennt_System\\Reception.Domain\\Models\\Barber.cs",
+              "RelativeToolTip": "Reception.Domain\\Models\\Barber.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T12:50:14.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\Hlamulo B. Maenetja\\source\\repos\\Fshaun\\BarberShop_Mangemennt_System\\Reception.Domain\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "Reception.Domain\\Models\\Reservation.cs",
+              "ToolTip": "C:\\Users\\Hlamulo B. Maenetja\\source\\repos\\Fshaun\\BarberShop_Mangemennt_System\\Reception.Domain\\Models\\Reservation.cs",
+              "RelativeToolTip": "Reception.Domain\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T12:46:32.134Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 9,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 1,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

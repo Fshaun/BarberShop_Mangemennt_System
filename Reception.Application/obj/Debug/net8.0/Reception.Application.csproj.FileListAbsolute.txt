@@ -1,0 +1,16 @@
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Application\bin\Debug\net8.0\Reception.Application.deps.json
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Application\bin\Debug\net8.0\Reception.Application.dll
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Application\bin\Debug\net8.0\Reception.Application.pdb
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Application\bin\Debug\net8.0\Reception.Domain.dll
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Application\bin\Debug\net8.0\Reception.Domain.pdb
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Application\obj\Debug\net8.0\Reception.Application.csproj.AssemblyReference.cache
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Application\obj\Debug\net8.0\Reception.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Application\obj\Debug\net8.0\Reception.Application.AssemblyInfoInputs.cache
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Application\obj\Debug\net8.0\Reception.Application.AssemblyInfo.cs
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Application\obj\Debug\net8.0\Reception.Application.csproj.CoreCompileInputs.cache
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Application\obj\Debug\net8.0\Reception.Application.sourcelink.json
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Application\obj\Debug\net8.0\Receptio.508E7F01.Up2Date
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Application\obj\Debug\net8.0\Reception.Application.dll
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Application\obj\Debug\net8.0\refint\Reception.Application.dll
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Application\obj\Debug\net8.0\Reception.Application.pdb
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Application\obj\Debug\net8.0\ref\Reception.Application.dll

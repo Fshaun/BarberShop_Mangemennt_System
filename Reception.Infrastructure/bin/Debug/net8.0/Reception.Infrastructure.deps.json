@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Reception.Infrastructure/1.0.0": {
+        "dependencies": {
+          "Reception.Application": "1.0.0",
+          "Reception.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Reception.Infrastructure.dll": {}
+        }
+      },
+      "Reception.Application/1.0.0": {
+        "dependencies": {
+          "Reception.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Reception.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Reception.Domain/1.0.0": {
+        "runtime": {
+          "Reception.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reception.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Reception.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Reception.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
