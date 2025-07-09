@@ -1,0 +1,225 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Geeks_PC42\\Downloads\\BarberShop_Mangemennt_System-beta\\BarberShop_Mangemennt_System-beta\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6304082-10FD-4684-BE65-17D3FBACCF9D}|Reception.API\\Reception.API.csproj|c:\\users\\geeks_pc42\\downloads\\barbershop_mangemennt_system-beta\\barbershop_mangemennt_system-beta\\reception.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6304082-10FD-4684-BE65-17D3FBACCF9D}|Reception.API\\Reception.API.csproj|solutionrelative:reception.api\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6304082-10FD-4684-BE65-17D3FBACCF9D}|Reception.API\\Reception.API.csproj|c:\\users\\geeks_pc42\\downloads\\barbershop_mangemennt_system-beta\\barbershop_mangemennt_system-beta\\reception.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C6304082-10FD-4684-BE65-17D3FBACCF9D}|Reception.API\\Reception.API.csproj|solutionrelative:reception.api\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6304082-10FD-4684-BE65-17D3FBACCF9D}|Reception.API\\Reception.API.csproj|c:\\users\\geeks_pc42\\downloads\\barbershop_mangemennt_system-beta\\barbershop_mangemennt_system-beta\\reception.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6304082-10FD-4684-BE65-17D3FBACCF9D}|Reception.API\\Reception.API.csproj|solutionrelative:reception.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD3557B-2DF6-4A96-96A9-45C8486474B1}|Reception.Infrastructure\\Reception.Infrastructure.csproj|c:\\users\\geeks_pc42\\downloads\\barbershop_mangemennt_system-beta\\barbershop_mangemennt_system-beta\\reception.infrastructure\\persistence\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD3557B-2DF6-4A96-96A9-45C8486474B1}|Reception.Infrastructure\\Reception.Infrastructure.csproj|solutionrelative:reception.infrastructure\\persistence\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAD3557B-2DF6-4A96-96A9-45C8486474B1}|Reception.Infrastructure\\Reception.Infrastructure.csproj|c:\\users\\geeks_pc42\\downloads\\barbershop_mangemennt_system-beta\\barbershop_mangemennt_system-beta\\reception.infrastructure\\persistence\\repositories\\queuerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAD3557B-2DF6-4A96-96A9-45C8486474B1}|Reception.Infrastructure\\Reception.Infrastructure.csproj|solutionrelative:reception.infrastructure\\persistence\\repositories\\queuerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 120,
+          "SelectedChildIndex": 24,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dcc4ea97-1c0c-482b-b205-e541c0df9728}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6d4078d1-5951-4ed1-ac0e-0a8099c1cce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\Geeks_PC42\\Downloads\\BarberShop_Mangemennt_System-beta\\BarberShop_Mangemennt_System-beta\\Reception.API\\docker-compose.yml",
+              "RelativeDocumentMoniker": "Reception.API\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\Geeks_PC42\\Downloads\\BarberShop_Mangemennt_System-beta\\BarberShop_Mangemennt_System-beta\\Reception.API\\docker-compose.yml",
+              "RelativeToolTip": "Reception.API\\docker-compose.yml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-07-09T08:26:41.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Geeks_PC42\\Downloads\\BarberShop_Mangemennt_System-beta\\BarberShop_Mangemennt_System-beta\\Reception.API\\Dockerfile",
+              "RelativeDocumentMoniker": "Reception.API\\Dockerfile",
+              "ToolTip": "C:\\Users\\Geeks_PC42\\Downloads\\BarberShop_Mangemennt_System-beta\\BarberShop_Mangemennt_System-beta\\Reception.API\\Dockerfile",
+              "RelativeToolTip": "Reception.API\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-09T08:19:13.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Geeks_PC42\\Downloads\\BarberShop_Mangemennt_System-beta\\BarberShop_Mangemennt_System-beta\\Reception.API\\Program.cs",
+              "RelativeDocumentMoniker": "Reception.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Geeks_PC42\\Downloads\\BarberShop_Mangemennt_System-beta\\BarberShop_Mangemennt_System-beta\\Reception.API\\Program.cs",
+              "RelativeToolTip": "Reception.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:52:56.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QueueRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Geeks_PC42\\Downloads\\BarberShop_Mangemennt_System-beta\\BarberShop_Mangemennt_System-beta\\Reception.Infrastructure\\Persistence\\Repositories\\QueueRepository.cs",
+              "RelativeDocumentMoniker": "Reception.Infrastructure\\Persistence\\Repositories\\QueueRepository.cs",
+              "ToolTip": "C:\\Users\\Geeks_PC42\\Downloads\\BarberShop_Mangemennt_System-beta\\BarberShop_Mangemennt_System-beta\\Reception.Infrastructure\\Persistence\\Repositories\\QueueRepository.cs",
+              "RelativeToolTip": "Reception.Infrastructure\\Persistence\\Repositories\\QueueRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:35:39.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Geeks_PC42\\Downloads\\BarberShop_Mangemennt_System-beta\\BarberShop_Mangemennt_System-beta\\Reception.Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "Reception.Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Geeks_PC42\\Downloads\\BarberShop_Mangemennt_System-beta\\BarberShop_Mangemennt_System-beta\\Reception.Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "Reception.Infrastructure\\Persistence\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T07:31:52.175Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 9,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 1,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

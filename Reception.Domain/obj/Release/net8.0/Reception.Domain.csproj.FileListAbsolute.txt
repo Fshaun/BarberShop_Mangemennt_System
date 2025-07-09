@@ -1,0 +1,12 @@
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Domain\bin\Release\net8.0\Reception.Domain.deps.json
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Domain\bin\Release\net8.0\Reception.Domain.dll
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Domain\bin\Release\net8.0\Reception.Domain.pdb
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Domain\obj\Release\net8.0\Reception.Domain.csproj.AssemblyReference.cache
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Domain\obj\Release\net8.0\Reception.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Domain\obj\Release\net8.0\Reception.Domain.AssemblyInfoInputs.cache
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Domain\obj\Release\net8.0\Reception.Domain.AssemblyInfo.cs
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Domain\obj\Release\net8.0\Reception.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Domain\obj\Release\net8.0\Reception.Domain.dll
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Domain\obj\Release\net8.0\refint\Reception.Domain.dll
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Domain\obj\Release\net8.0\Reception.Domain.pdb
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Domain\obj\Release\net8.0\ref\Reception.Domain.dll

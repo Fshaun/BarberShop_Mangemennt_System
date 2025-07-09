@@ -1,0 +1,8 @@
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.API\obj\Release\net8.0\Reception.API.csproj.AssemblyReference.cache
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.API\obj\Release\net8.0\rpswa.dswa.cache.json
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.API\obj\Release\net8.0\Reception.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.API\obj\Release\net8.0\Reception.API.AssemblyInfoInputs.cache
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.API\obj\Release\net8.0\Reception.API.AssemblyInfo.cs
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.API\obj\Release\net8.0\Reception.API.csproj.CoreCompileInputs.cache
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.API\obj\Release\net8.0\Reception.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.API\obj\Release\net8.0\Reception.API.MvcApplicationPartsAssemblyInfo.cache

@@ -1,0 +1,29 @@
+version: '3.9'
+
+services:
+  receptionist-api:
+    build:
+      context: .
+      dockerfile: ReceptionistService.API/Dockerfile
+    ports:
+      - "5000:80"
+    depends_on:
+      - receptionist-db
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__ReceptionistDb=Host=receptionist-db;Database=ReceptionistDb;Username=postgres;Password=postgres
+
+  receptionist-db:
+    image: postgres:16
+    container_name: receptionist-db
+    ports:
+      - "5433:5432"
+    environment:
+      POSTGRES_DB: ReceptionistDb
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    volumes:
+      - receptionist_pgdata:/var/lib/postgresql/data
+
+volumes:
+  receptionist_pgdata:

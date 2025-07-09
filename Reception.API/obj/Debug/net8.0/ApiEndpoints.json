@@ -1,0 +1,91 @@
+[
+  {
+    "ContainingType": "Reception.API.Controllers.CustomerController",
+    "Method": "AssignToQueue",
+    "RelativePath": "api/Customer/{customerId}/assign-to-queue",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Reception.API.Controllers.CustomerController",
+    "Method": "Complete",
+    "RelativePath": "api/Customer/{customerId}/complete",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "customerId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Reception.API.Controllers.CustomerController",
+    "Method": "RegisterCustomer",
+    "RelativePath": "api/Customer/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Reception.API.Controllers.CustomerRegisterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Reception.API.Controllers.QueueController",
+    "Method": "GetQueue",
+    "RelativePath": "api/Queue",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Reception.API.Controllers.QueueController",
+    "Method": "AssignBarber",
+    "RelativePath": "api/Queue/{queueEntryId}/assign-barber/{barberId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "queueEntryId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      },
+      {
+        "Name": "barberId",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Reception.API.Controllers.QueueController",
+    "Method": "GetNextCustomer",
+    "RelativePath": "api/Queue/next",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

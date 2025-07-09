@@ -1,0 +1,30 @@
+version: '3.9'
+
+services:
+  reception-api:
+    build:
+      context: .
+      dockerfile: Reception.API/Dockerfile
+    ports:
+      - "8080:8080"
+      - "8081:8081"
+    depends_on:
+      - reception-db
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ConnectionStrings__ReceptionDb: Host=reception-db;Port=5432;Database=ReceptionDb;Username=postgres;Password=postgres
+
+  reception-db:
+    image: postgres:17
+    container_name: reception-db
+    environment:
+      POSTGRES_DB: ReceptionDb
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5433:5432"
+    volumes:
+      - reception_pgdata:/var/lib/postgresql/data
+
+volumes:
+  reception_pgdata:

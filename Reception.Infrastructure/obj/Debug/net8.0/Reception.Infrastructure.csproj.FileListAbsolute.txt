@@ -1,0 +1,37 @@
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Infrastructure\bin\Debug\net8.0\Reception.Infrastructure.deps.json
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Infrastructure\bin\Debug\net8.0\Reception.Infrastructure.dll
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Infrastructure\bin\Debug\net8.0\Reception.Infrastructure.pdb
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Infrastructure\bin\Debug\net8.0\Reception.Application.dll
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Infrastructure\bin\Debug\net8.0\Reception.Domain.dll
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Infrastructure\bin\Debug\net8.0\Reception.Application.pdb
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Infrastructure\bin\Debug\net8.0\Reception.Domain.pdb
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Infrastructure\obj\Debug\net8.0\Reception.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Infrastructure\obj\Debug\net8.0\Reception.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Infrastructure\obj\Debug\net8.0\Reception.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Infrastructure\obj\Debug\net8.0\Reception.Infrastructure.AssemblyInfo.cs
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Infrastructure\obj\Debug\net8.0\Reception.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Infrastructure\obj\Debug\net8.0\Reception.Infrastructure.sourcelink.json
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Infrastructure\obj\Debug\net8.0\Receptio.860CA23B.Up2Date
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Infrastructure\obj\Debug\net8.0\Reception.Infrastructure.dll
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Infrastructure\obj\Debug\net8.0\refint\Reception.Infrastructure.dll
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Infrastructure\obj\Debug\net8.0\Reception.Infrastructure.pdb
+C:\Users\Hlamulo B. Maenetja\source\repos\Fshaun\BarberShop_Mangemennt_System\Reception.Infrastructure\obj\Debug\net8.0\ref\Reception.Infrastructure.dll
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Infrastructure\bin\Debug\net8.0\Reception.Infrastructure.deps.json
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Infrastructure\bin\Debug\net8.0\Reception.Infrastructure.runtimeconfig.json
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Infrastructure\bin\Debug\net8.0\Reception.Infrastructure.dll
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Infrastructure\bin\Debug\net8.0\Reception.Infrastructure.pdb
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Infrastructure\bin\Debug\net8.0\Reception.Application.dll
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Infrastructure\bin\Debug\net8.0\Reception.Domain.dll
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Infrastructure\bin\Debug\net8.0\Reception.Application.pdb
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Infrastructure\bin\Debug\net8.0\Reception.Domain.pdb
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Infrastructure\obj\Debug\net8.0\Reception.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Infrastructure\obj\Debug\net8.0\Reception.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Infrastructure\obj\Debug\net8.0\Reception.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Infrastructure\obj\Debug\net8.0\Reception.Infrastructure.AssemblyInfo.cs
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Infrastructure\obj\Debug\net8.0\Reception.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Infrastructure\obj\Debug\net8.0\Receptio.860CA23B.Up2Date
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Infrastructure\obj\Debug\net8.0\Reception.Infrastructure.dll
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Infrastructure\obj\Debug\net8.0\refint\Reception.Infrastructure.dll
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Infrastructure\obj\Debug\net8.0\Reception.Infrastructure.pdb
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Infrastructure\obj\Debug\net8.0\Reception.Infrastructure.genruntimeconfig.cache
+C:\Users\Geeks_PC42\Downloads\BarberShop_Mangemennt_System-beta\BarberShop_Mangemennt_System-beta\Reception.Infrastructure\obj\Debug\net8.0\ref\Reception.Infrastructure.dll
