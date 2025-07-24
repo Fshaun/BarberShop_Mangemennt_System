@@ -1,0 +1,45 @@
+## Ignore Visual Studio temporary files, build results, and user-specific files
+
+# Build results
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.app
+*.log
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio working directory
+.vs/
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Rider
+.idea/
+
+# NuGet
+*.nupkg
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Others
+*.vsidx
+*.dbmdl
+*.pdb
+*.cache
+*.zip
+*.tmp
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
